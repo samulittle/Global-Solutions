@@ -1,1 +1,2 @@
-# Global-Solutions
+# global-solutions
+Project Global Solutions 
